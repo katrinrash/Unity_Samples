@@ -1,4 +1,4 @@
-# Card System
+# Card-based Roguelike
 
 This folder contains several key scripts responsible for card validation and player card spawning logic in a card-based game.
 
